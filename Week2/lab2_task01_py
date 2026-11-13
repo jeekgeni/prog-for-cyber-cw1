@@ -1,0 +1,18 @@
+#ask the user to enter two values
+#"first" and "second" are variable names 
+first = int(input("enter the first value:"))
+second = int(input("enter the second value"))
+#add the values together
+print("Addition:", first + second)
+#multiply the values together
+print("Multiplied:",first * second)
+#subtract the second value from the first
+print("Subtraction:", first - second)
+#dividing first number by second number 
+print("Division:",first / second)
+#interger division
+print("Integer division:", first // second)
+# Find the remainder when first value is divided by second
+print("Modulus:", first % second)
+#first value to the power of the second value
+print("Power:", first ** second)
