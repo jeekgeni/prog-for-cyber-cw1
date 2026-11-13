@@ -1,4 +1,4 @@
-# Progranming for Cybersecurity Coursework 1 - bEng Cybersecurity
+# Programming for Cybersecurity Coursework 1 - bEng Cybersecurity
 
 ## 📚Student Information📚
 Name: Kiara Mullen 
