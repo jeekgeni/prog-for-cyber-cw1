@@ -57,25 +57,24 @@ The program:
 
 ## Example Usage 
 
+User Input:
+
 Enter the username: KIARA
 Enter IP Address: 192.168.10.1
+Update risk level (Low, Medium, Critical): Critical 
 
-===========
-## SECURITY INCIDENT
-\\\text 
+Program Output:
+==========
+SECURITY INCIDENT
 
 Username: KIARA 
 IP Address: 192.168.10.1
 Incident Type: Failed Login Attempt
 Risk Level: -High-
 
-Update risk level (Low, Medium or Critical): Critical 
-
-
-===========
-## SECURITY UPDATE
-===========
-\\\
+==========
+SECURITY UPDATE
+==========
 Incident ID: 1001
 Username: KIARA
 IP Address: 192.168.10.1
