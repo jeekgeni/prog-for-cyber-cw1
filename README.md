@@ -31,12 +31,12 @@ The program stores incident details in a dictionary and allows the user to enter
 
 ## 🚀How to run 
 
-1 - Dowload or clone my prog-for-cyber-cw1 repository from GitHub
-2 - Open the project folder in Visual Studio Code
-3 - Open the terminal 
-4 - Run the Python file:
+1. Dowload or clone my prog-for-cyber-cw1 repository from GitHub
+2.  Open the project folder in Visual Studio Code
+3. Open the terminal 
+4. Run the Python file:
     python security-incident-manager.py
-5 - Follow on screen instructions to enter the incident details and risk level. 
+5. Follow on screen instructions to enter the incident details and risk level. 
 
 ## How the program works 
 
@@ -44,16 +44,16 @@ The prorgam uses a dictionary called security_incident to store the incident inf
 
 The program:
 
-1 - Creates a dictionary containing the initial incident details
-2 - Asks the user to enter a username and IP address 
-3 - Displays the incident information 
-4 - Adds a new field called status
-5 - Adds the date the incident was recorded
-6 - Allows the user to update the risk level
-7 - Removes the Incident Type field using .pop()
-8 - Uses a for loop to display the remaining dictionary keys and values 
-9 - Uses len() to count the number of fields 
-10 - Uses an if/else statement to display a warning if the risk level is Critical
+1. Creates a dictionary containing the initial incident details
+2.  Asks the user to enter a username and IP address 
+3.  Displays the incident information 
+4.  Adds a new field called status
+5.  Adds the date the incident was recorded
+6.  Allows the user to update the risk level
+7.  Removes the Incident Type field using .pop()
+8.  Uses a for loop to display the remaining dictionary keys and values 
+9.  Uses len() to count the number of fields 
+10. Uses an if/else statement to display a warning if the risk level is Critical
 
 ## Example Usage 
 
@@ -61,7 +61,9 @@ Enter the username: KIARA
 Enter IP Address: 192.168.10.1
 
 ===========
-SECURITY INCIDENT
+## SECURITY INCIDENT
+\\\text 
+
 Username: KIARA 
 IP Address: 192.168.10.1
 Incident Type: Failed Login Attempt
@@ -71,8 +73,9 @@ Update risk level (Low, Medium or Critical): Critical
 
 
 ===========
-SECURITY UPDATE
+## SECURITY UPDATE
 ===========
+\\\
 Incident ID: 1001
 Username: KIARA
 IP Address: 192.168.10.1
